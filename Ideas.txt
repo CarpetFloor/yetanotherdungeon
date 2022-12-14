@@ -1,0 +1,10 @@
+-Dungeon with different randomly generated rooms
+-Enemies drop coins
+-Start at center location that has a shop
+-The further out the player gets, the harder the enemies become, but the bigger the reward
+-Only way to get health and better equipment at shops
+-Shops start to generate further out
+-Going into new location reveals it on the map
+-Shops are a safe zone, meaning that enemies can't spawn, but when entering, already cleared rooms 
+	regenerate enemies
+-Medieval style combat and weapons
